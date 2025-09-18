@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Tower Defense",
+  "description": "A simple yet visually appealing dark mode tower defense game built with React, TypeScript, and Tailwind CSS. Place towers strategically to defend against waves of incoming enemies.",
+  "requestFramePermissions": []
+}
